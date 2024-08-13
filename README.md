@@ -97,7 +97,7 @@ weather-app/
 <br>
 ├── requirements.txt # Dependencies
 <br>
-├── .env # Environment variables (not included)
+├── .gitignore # Environment variables (not included)
 <br>
 └── README.md # Project README
 
